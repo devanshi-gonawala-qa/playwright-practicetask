@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "types": ["node"],
+    "target": "ESNext",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
